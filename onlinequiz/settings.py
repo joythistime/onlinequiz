@@ -131,7 +131,6 @@ STATICFILES_DIRS=[
 STATIC_DIR,
  ]
 
-STATICFILES_STORAGE =  'django.contrib.staticfiles.storage.StaticFilesStorage'
 
 LOGIN_REDIRECT_URL='/afterlogin'
 
